@@ -10,7 +10,7 @@ class TwoSum {
     }
     return new int[0];
   }
-
+// test code with the main method
   public static void main(String[] args) {
     int[] nums = { 3, 2, 4 };
     int target = 6;
