@@ -9,7 +9,7 @@ class ReverseInteger {
                 return 0;
             }
             reverse = newReversed;
-            x=x/10;
+            x/=10;
         }
         return reverse;
     }
